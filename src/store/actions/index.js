@@ -1,0 +1,1 @@
+export { createName } from "./name";
